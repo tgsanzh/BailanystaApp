@@ -36,3 +36,9 @@ Bailanysta - Социальная сеть по типу Threads где можн
 - Объясните почему выбрали этот технический стэк
 
   Я использовал самый актуальные технологии для iOS разработки.
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-09-06 at 13 31 57" src="https://github.com/user-attachments/assets/4441b2ce-2f06-4003-b4a9-6f8e068eaef4" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-09-06 at 13 32 21" src="https://github.com/user-attachments/assets/c8cbf69e-5a30-4cdb-91dc-4ea56643eb67" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-09-06 at 13 31 34" src="https://github.com/user-attachments/assets/d2604740-9763-4d8d-a380-08fc42f17b64" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-09-06 at 13 23 51" src="https://github.com/user-attachments/assets/911e886e-a08a-465b-a0a4-8d6bd5825a23" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-09-06 at 13 32 01" src="https://github.com/user-attachments/assets/205b7ccd-f18c-478b-8721-3778ab770bd3" />
